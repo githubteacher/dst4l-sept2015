@@ -14,7 +14,7 @@ September 10, 2015 - 10am-5pm
 * A Laptop
 * A GitHub account 
 * [GitHub Desktop](https://desktop.github.com/) installed (for Unix users simply [install Git](https://git-scm.com/download/linux))
-* Optinally install [Atom](https://atom.io/) as a text editor
+* Optionally install [Atom](https://atom.io/) as a text editor
 
 ### Agenda
 
