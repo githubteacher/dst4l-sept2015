@@ -12,7 +12,7 @@ September 10, 2015 - 10am-5pm
 ### Pre-requisites
 
 * A Laptop
-* A GitHub account 
+* A GitHub account
 * [GitHub Desktop](https://desktop.github.com/) installed (for Unix users simply [install Git](https://git-scm.com/download/linux))
 * Optionally install [Atom](https://atom.io/) as a text editor
 
@@ -28,6 +28,13 @@ September 10, 2015 - 10am-5pm
 4. Working with GitHub
   1. Working on your own GitHub project
   2. Contributing to open source projects
+  3. Last assignment
+    1. Fork
+    2. Clone on Desktop
+    3. Creat branch
+    4. Sync
+    5. Create pull request
+    
 5. Why communities are important and the role of GitHub
-6. How can you start using Git & GitHub today? 
+6. How can you start using Git & GitHub today?
 7. Q/A  
