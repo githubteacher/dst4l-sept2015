@@ -31,7 +31,7 @@ September 10, 2015 - 10am-5pm
   3. Last assignment
     1. Fork
     2. Clone on Desktop
-    3. Creat branch
+    3. Create branch
     4. Sync
     5. Create pull request
     
